@@ -7,20 +7,18 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+theme: minimal-mistakes-jekyll
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: My Finance Projects
+email: 645286918@qq.com
+description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+twitter_username: Joe Zhou
+github_username: joezhou1053
 minimal_mistakes_skin: default
 search: true
 
